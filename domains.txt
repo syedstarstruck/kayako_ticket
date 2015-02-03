@@ -1,0 +1,3 @@
+domain1.tld,email@isp.tld
+domain2.tld,email@isp.tld
+domain3.tld,email@isp.tld
